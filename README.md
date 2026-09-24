@@ -19,7 +19,7 @@ Installation
 1. Clone the repository and change into the project folder.
 
 ```bash
-git clone https://github.com/NathanielGaither/KodaAI-VRChat
+git clone https://github.com/NatalieYocom/KodaAI-VRChat
 cd KodaAI—VRChat
 ```
 
