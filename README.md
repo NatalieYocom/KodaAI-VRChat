@@ -2,6 +2,10 @@
 
 A very heavily modified version of [S0L0GUY/NOVA-AI](https://github.com/S0L0GUY/NOVA-AI), that allows the bot to interface with the OpenClaw framework, along with many other changes for personal use.
 
+Planned Features:
+- []Report back events/memories to OpenClaw when finished
+- []Control of avatar accessories via OSC
+
 Features
 
 - Local memory system persisted in SQLite (`memories.db`)
