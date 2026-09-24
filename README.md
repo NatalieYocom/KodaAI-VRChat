@@ -1,8 +1,6 @@
-[![](https://dcbadge.limes.pink/api/server/vSxGKpfK8j?style=flat)](https://discord.gg/vSxGKpfK8j)
+# KODA-AI-VRChat
 
-# NOVA-AI
-
-NOVA-AI is a local-first personal assistant framework that integrates memory, vision, audio, and simple tools to enable rapid experimentation with conversational agents. It includes components for audio I/O, SQLite-backed memory storage, screenshot capture, and simple UI utilities.
+A very heavily modified version of [S0L0GUY/NOVA-AI](https://github.com/S0L0GUY/NOVA-AI), that allows the bot to interface with the OpenClaw framework, along with many other changes for personal use.
 
 Features
 
@@ -21,8 +19,8 @@ Installation
 1. Clone the repository and change into the project folder.
 
 ```bash
-git clone https://github.com/S0L0GUY/NOVA-AI
-cd NOVA-AI
+git clone https://github.com/NathanielGaither/KodaAI-VRChat
+cd KodaAI—VRChat
 ```
 
 2. Create and activate a virtual environment.
@@ -92,24 +90,7 @@ Project layout
 └── requirements.txt    # Python dependencies
 ```
 
-Contributing
-
-Contributions are welcome. To contribute:
-
-1. Open an issue to discuss major changes.
-2. Create a feature branch from `main`.
-3. Submit a pull request with a clear description of changes.
-
-If you add new dependencies, update `requirements.txt` and include a brief note in the PR.
-
-License
-
-Specify the project license in this section, for example MIT. Add a `LICENSE` file in the repository root.
-
-Support
-
-Report issues on the repository issue tracker or contact the maintainers listed in the project metadata.
 
 Maintainers
 
-- Evan Grinnell (S0L0GUY)
+- Natalie Yocom (SimplyNat)
